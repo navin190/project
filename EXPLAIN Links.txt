@@ -1,0 +1,11 @@
+Without Index:
+	https://explain.depesz.com/s/iVMO
+	
+With Simple Index on crash_time:
+	https://explain.depesz.com/s/0JAs
+
+With Simple Index on geo_shape.geometry.coordinates:
+	https://explain.depesz.com/s/UcIj
+
+With composite index on  crash_time and geo_shape.geometry.coordinates:
+	https://explain.depesz.com/s/UlW
